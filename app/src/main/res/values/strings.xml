@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">list view</string>
+
+    <string-array name="title">
+        <itemJava/>
+        <itemC++/>
+        <itemc/>
+        <itempython/>
+        <itemDBMS/>
+
+        
+    </string-array>
+     
+
+
+</resources>
